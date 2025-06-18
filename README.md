@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-yellow.svg)](LICENSE)
 [![Maven](https://img.shields.io/badge/Maven-3.10.1-blue)](https://maven.apache.org/)
 [![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey)](https://github.com/TheBanditOfRed/Library-Manager/releases)
-[![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-orange)](#project-status)
+[![Status](https://img.shields.io/badge/Status-Incomplete-red)](#project-status)
 
 ![icon.png](src/main/resources/icon/icon.png)
 
