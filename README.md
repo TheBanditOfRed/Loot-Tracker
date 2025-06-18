@@ -62,15 +62,15 @@ java -jar target/loot-tracker-0.1.0-jar-with-dependencies.jar
 
 
 ## Project Status
-|        Component         |    Status    | Description                                                                                                                                         | Platform Support |
-|:------------------------:|:------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------|:----------------:|
-|   **Core Application**   | ❌ Incomplete | The main library management system with all features implemented including user management, book management, borrowing system, and fine calculation |  Cross-Platform  |
-| **Localisation Backend** | ✅ Completed  | Multi-language support backend                                                                                                                      |  Cross-Platform  |
-|   **English Language**   |    🔄 WIP    | English language support is being actively worked on as more code is added                                                                          |  Cross-Platform  |
-|   **Data Management**    | ❌ Incomplete | SQL or CSV data storage (not decided yet)                                                                                                           |  Cross-Platform  |
-|  **Windows Installer**   | ❌ Incomplete | MSI installer package with bundled JRE, Start Menu integration, and desktop shortcuts                                                               |     Windows      |
-|   **macOS Installer**    | ❌ Incomplete | DMG installer package with macOS-specific icons and application bundle structure                                                                    |      macOS       |
-|   **Linux Installer**    | ❌ Incomplete | DEB package with Linux desktop integration and application shortcuts                                                                                |      Linux       |
+|        Component         |    Status    | Description                                                                           | Platform Support |
+|:------------------------:|:------------:|---------------------------------------------------------------------------------------|:----------------:|
+|   **Core Application**   | ❌ Incomplete | The main loot tracker system with all features implemented                            |  Cross-Platform  |
+| **Localisation Backend** | ✅ Completed  | Multi-language support backend                                                        |  Cross-Platform  |
+|   **English Language**   |    🔄 WIP    | English language support is being actively worked on as more code is added            |  Cross-Platform  |
+|   **Data Management**    | ❌ Incomplete | SQL or CSV data storage (not decided yet)                                             |  Cross-Platform  |
+|  **Windows Installer**   | ❌ Incomplete | MSI installer package with bundled JRE, Start Menu integration, and desktop shortcuts |     Windows      |
+|   **macOS Installer**    | ❌ Incomplete | DMG installer package with macOS-specific icons and application bundle structure      |      macOS       |
+|   **Linux Installer**    | ❌ Incomplete | DEB package with Linux desktop integration and application shortcuts                  |      Linux       |
 
 
 ## License
